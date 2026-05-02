@@ -17,11 +17,7 @@ Os exercícios estão organizados em pastas, em ordem progressiva de complexidad
 | 06 | [`06_bootloader_gradiente_linha/`](06_bootloader_gradiente_linha/) | Bootloader (MBR) | Desenha uma linha de gradiente de cores no modo VGA 320x200 |
 | 07 | [`07_bootloader_grade_cores/`](07_bootloader_grade_cores/) | Bootloader (MBR) | Desenha uma grade 16×16 de quadrados coloridos no modo VGA |
 | 08 | [`08_bootloader_desenho_caos/`](08_bootloader_desenho_caos/) | Bootloader (MBR) | Desenha bordas e as letras "CA0S" pixel a pixel no modo VGA |
-<<<<<<< HEAD
-| 09 | [`09_hand_written_pdf/`](09_hand_written_pdf/) | PDF (Manual) | PDF estruturado manualmente caractere por caractere |
-=======
 | 09 | [`09_PDF-artesanal/`](09_PDF-artesanal/) | PDF (Manual) | PDF estruturado manualmente caractere por caractere |
->>>>>>> 7076682 (README.md)
 
 
 > 📖 Cada pasta contém seu próprio `README.md` com explicação detalhada do código, conceitos e instruções de compilação.
