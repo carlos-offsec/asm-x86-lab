@@ -1,6 +1,6 @@
 # 🖥️ Assembly x86 — Laboratório de Estudos
 
-Repositório de exercícios em Assembly x86 (NASM) desenvolvidos durante o curso **Universidade Hacker**.  
+Repositório de exercícios em Assembly x86 e afins. 
 Os exercícios estão organizados em pastas, em ordem progressiva de complexidade.
 
 ---
