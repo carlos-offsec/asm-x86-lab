@@ -1,4 +1,4 @@
-# 📄 Hand-Written PDF: Hello World
+# 📄 PDF Escrito a mão: Hello World
 
 Este projeto é uma exploração prática da estrutura interna do formato de arquivo **PDF (Portable Document Format)**. Em vez de utilizar um software de editoração ou biblioteca de programação, este arquivo foi escrito manualmente caractere por caractere em um editor de texto simples.
 
@@ -27,5 +27,3 @@ Para visualizar o resultado como um documento real:
 1.  Remova a extensão `.txt` do arquivo, deixando apenas `HelloWorld.pdf`.
 2.  Abra o arquivo em qualquer navegador (Chrome, Firefox, Edge) ou leitor de PDF (Adobe, SumatraPDF).
 
----
-*Este projeto faz parte dos meus estudos na **Universidade Hacker**, focado em entender as entranhas da tecnologia para construir sistemas mais seguros.*
